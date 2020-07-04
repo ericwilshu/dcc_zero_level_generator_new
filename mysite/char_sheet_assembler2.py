@@ -29,8 +29,9 @@ Dependencies:
 from lxml import etree as et
 import character_generator2
 from char_sheet_creator2 import writeSVG
+import dcc_root_path
 
-ROOT_PATH = "/home/eric/Code/dcc_zero_level_generator_new/mysite/"
+ROOT_PATH = dcc_root_path.get_root_path()
 
 def assemble_sheets(dataDict, testSuitability, noHuman, noDwarf, noElf, noHalfling):
     """Put 4 character sheets from char_sheet_creator2 together on one 11'x8.5' .svg."""

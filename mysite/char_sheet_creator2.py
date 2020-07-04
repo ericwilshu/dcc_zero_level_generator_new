@@ -28,8 +28,9 @@ Dependencies:
         AppendixL.csv
 """
 from lxml import etree as et
+import dcc_root_path
 
-ROOT_PATH = "/home/eric/Code/dcc_zero_level_generator_new/mysite/"
+ROOT_PATH = dcc_root_path.get_root_path()
 
 BLANK_SHEET = "{}templates/char_sheet_blank.svg".format(ROOT_PATH)
 

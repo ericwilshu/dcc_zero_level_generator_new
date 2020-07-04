@@ -35,10 +35,11 @@ from datetime import datetime
 from cairosvg import svg2pdf as s2p
 import char_sheet_assembler2
 from import_data import getDataFiles
+import dcc_root_path
 
 app = Flask(__name__)
 
-ROOT_PATH = "/home/eric/Code/dcc_zero_level_generator_new/mysite/"
+ROOT_PATH = dcc_root_path.get_root_path()
 
 #Get the rulebook data!
 dataDict = getDataFiles('{}data_files/'.format(ROOT_PATH))
