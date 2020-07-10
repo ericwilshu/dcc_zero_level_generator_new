@@ -33,6 +33,7 @@ Dependencies:
 from flask import Flask, render_template, request, send_from_directory
 from datetime import datetime
 from cairosvg import svg2pdf as s2p
+import pickle
 import char_sheet_assembler2
 from import_data import getDataFiles
 import dcc_root_path
@@ -42,8 +43,10 @@ app = Flask(__name__)
 ROOT_PATH = dcc_root_path.get_root_path()
 
 #Get the rulebook data!
-dataDict = getDataFiles('{}data_files/'.format(ROOT_PATH))
-
+readable = open("{}data_files/dcc_dict".format(ROOT_PATH), "rb")
+dataDict = pickle.load(readable)
+#dataDict = getDataFiles('{}data_files/'.format(ROOT_PATH))
+readable.close()
 @app.route('/')
 def hello() -> 'html':
     """Provide a simple web interface for the app."""

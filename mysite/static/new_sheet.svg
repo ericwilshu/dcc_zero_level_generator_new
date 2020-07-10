@@ -118,30 +118,30 @@
         <g id="editableFields">
             <text id="monoText" font-size="18" font-family="Liberation Mono">
 
-                <tspan id="strScore" x="120" y="104">16</tspan>
-                <tspan id="strMod" x="157" y="104">+2</tspan>
+                <tspan id="strScore" x="120" y="104">12</tspan>
+                <tspan id="strMod" x="157" y="104"> 0</tspan>
 
-                <tspan id="agiScore" x="120" y="132">10</tspan>
-                <tspan id="agiMod" x="157" y="132"> 0</tspan>
+                <tspan id="agiScore" x="120" y="132">13</tspan>
+                <tspan id="agiMod" x="157" y="132">+1</tspan>
 
-                <tspan id="hitPoints" x="247" y="131">2</tspan>
-                <tspan id="armorClass" x="344" y="131">10</tspan>
+                <tspan id="hitPoints" x="247" y="131">4</tspan>
+                <tspan id="armorClass" x="344" y="131">11</tspan>
                 <tspan id="spdScore" x="450" y="132">30'</tspan>
 
-                <tspan id="staScore" x="120" y="160"> 9</tspan>
-                <tspan id="staMod" x="157" y="160"> 0</tspan>
+                <tspan id="staScore" x="120" y="160">14</tspan>
+                <tspan id="staMod" x="157" y="160">+1</tspan>
 
-                <tspan id="initMod" x="288" y="160"> 0</tspan>
+                <tspan id="initMod" x="288" y="160">+1</tspan>
 
-                <tspan id="intScore" x="120" y="188">11</tspan>
+                <tspan id="intScore" x="120" y="188"> 9</tspan>
                 <tspan id="intMod" x="157" y="188"> 0</tspan>
 
-                <tspan id="fortMod" x="290" y="188"> 0</tspan>
-                <tspan id="reflexMod" x="404" y="188"> 0</tspan>
-                <tspan id="willMod" x="487" y="188">+2</tspan>
+                <tspan id="fortMod" x="290" y="188">+1</tspan>
+                <tspan id="reflexMod" x="404" y="188">+1</tspan>
+                <tspan id="willMod" x="487" y="188">-1</tspan>
 
-                <tspan id="perScore" x="120" y="215">17</tspan>
-                <tspan id="perMod" x="157" y="215">+2</tspan>
+                <tspan id="perScore" x="120" y="215"> 7</tspan>
+                <tspan id="perMod" x="157" y="215">-1</tspan>
 
                 <tspan id="lucScore" x="120" y="243"> 9</tspan>
                 <tspan id="lucMod" x="157" y="243"> 0</tspan>
@@ -150,21 +150,21 @@
 
             <text id="sansText" font-size="12" font-family="Liberation Sans">
 
-                <tspan id="occupation" x="313" y="101">Potato farmer</tspan>
+                <tspan id="occupation" x="313" y="101">Corn farmer</tspan>
 
-                <tspan id="money" x="398" y="157">CP:38</tspan>
+                <tspan id="money" x="398" y="157">CP:42</tspan>
 
                 <tspan id="weapon1" x="359" y="211">Pitchfork (as spear) 1d8</tspan>
                 <tspan id="weapon2" x="359" y="225">0/0/0</tspan>
 
-                <tspan id="luckySign1" x="203" y="251">The bull:</tspan>
-                <tspan id="luckySign2" x="203" y="265">Melee attack rolls</tspan>
+                <tspan id="luckySign1" x="203" y="251">Fortunate date:</tspan>
+                <tspan id="luckySign2" x="203" y="265">Missile fire attack rolls</tspan>
 
                 <tspan id="languages1" x="119" y="292"></tspan>
                 <tspan id="languages2" x="119" y="306">Common</tspan>
 
                 <tspan id="equipment1" x="122" y="333">Pitchfork (as spear) 1d8 0/0/0</tspan>
-                <tspan id="equipment2" x="122" y="347">Hen, Rope, 50'</tspan>
+                <tspan id="equipment2" x="122" y="347">Goose, Chest, empty</tspan>
 
                 <tspan id="traits1" x="134" y="373"></tspan>
                 <tspan id="traits2" x="134" y="387"></tspan>
@@ -266,56 +266,56 @@
         <g id="editableFields">
             <text id="monoText" font-size="18" font-family="Liberation Mono">
 
-                <tspan id="strScore" x="120" y="104">13</tspan>
+                <tspan id="strScore" x="120" y="104">14</tspan>
                 <tspan id="strMod" x="157" y="104">+1</tspan>
 
-                <tspan id="agiScore" x="120" y="132"> 6</tspan>
-                <tspan id="agiMod" x="157" y="132">-1</tspan>
+                <tspan id="agiScore" x="120" y="132">16</tspan>
+                <tspan id="agiMod" x="157" y="132">+2</tspan>
 
-                <tspan id="hitPoints" x="247" y="131">5</tspan>
-                <tspan id="armorClass" x="344" y="131">9</tspan>
-                <tspan id="spdScore" x="450" y="132">30'</tspan>
+                <tspan id="hitPoints" x="247" y="131">2</tspan>
+                <tspan id="armorClass" x="344" y="131">12</tspan>
+                <tspan id="spdScore" x="450" y="132">20'</tspan>
 
-                <tspan id="staScore" x="120" y="160">13</tspan>
+                <tspan id="staScore" x="120" y="160">15</tspan>
                 <tspan id="staMod" x="157" y="160">+1</tspan>
 
-                <tspan id="initMod" x="288" y="160">-1</tspan>
+                <tspan id="initMod" x="288" y="160">+2</tspan>
 
-                <tspan id="intScore" x="120" y="188">12</tspan>
+                <tspan id="intScore" x="120" y="188">10</tspan>
                 <tspan id="intMod" x="157" y="188"> 0</tspan>
 
                 <tspan id="fortMod" x="290" y="188">+1</tspan>
-                <tspan id="reflexMod" x="404" y="188">-1</tspan>
-                <tspan id="willMod" x="487" y="188">+1</tspan>
+                <tspan id="reflexMod" x="404" y="188">+2</tspan>
+                <tspan id="willMod" x="487" y="188">-2</tspan>
 
-                <tspan id="perScore" x="120" y="215">14</tspan>
-                <tspan id="perMod" x="157" y="215">+1</tspan>
+                <tspan id="perScore" x="120" y="215"> 4</tspan>
+                <tspan id="perMod" x="157" y="215">-2</tspan>
 
-                <tspan id="lucScore" x="120" y="243"> 8</tspan>
-                <tspan id="lucMod" x="157" y="243">-1</tspan>
+                <tspan id="lucScore" x="120" y="243">10</tspan>
+                <tspan id="lucMod" x="157" y="243"> 0</tspan>
 
             </text>
 
             <text id="sansText" font-size="12" font-family="Liberation Sans">
 
-                <tspan id="occupation" x="313" y="101">Elven sage</tspan>
+                <tspan id="occupation" x="313" y="101">Dwarven chest-maker</tspan>
 
-                <tspan id="money" x="398" y="157">CP:28</tspan>
+                <tspan id="money" x="398" y="157">CP:37</tspan>
 
-                <tspan id="weapon1" x="359" y="211">Dagger 1d4</tspan>
+                <tspan id="weapon1" x="359" y="211">Chisel (as dagger) 1d4</tspan>
                 <tspan id="weapon2" x="359" y="225">0/0/0</tspan>
 
-                <tspan id="luckySign1" x="203" y="251">The bull:</tspan>
-                <tspan id="luckySign2" x="203" y="265">Melee attack rolls</tspan>
+                <tspan id="luckySign1" x="203" y="251">Path of the bear:</tspan>
+                <tspan id="luckySign2" x="203" y="265">Melee damage rolls</tspan>
 
                 <tspan id="languages1" x="119" y="292">Common</tspan>
-                <tspan id="languages2" x="119" y="306">Elf</tspan>
+                <tspan id="languages2" x="119" y="306">Dwarf</tspan>
 
-                <tspan id="equipment1" x="122" y="333">Dagger 1d4 0/0/0</tspan>
-                <tspan id="equipment2" x="122" y="347">Parchment and quill pen, Flint &amp; steel</tspan>
+                <tspan id="equipment1" x="122" y="333">Chisel (as dagger) 1d4 0/0/0</tspan>
+                <tspan id="equipment2" x="122" y="347">Wood, 10 lbs., Sack, large</tspan>
 
-                <tspan id="traits1" x="134" y="373">Infravision, Immune to magic sleep/paralysis</tspan>
-                <tspan id="traits2" x="134" y="387">Heightened senses, Iron vulnerability</tspan>
+                <tspan id="traits1" x="134" y="373">Infravision</tspan>
+                <tspan id="traits2" x="134" y="387">Underground skills</tspan>
 
             </text>
         </g>
@@ -414,56 +414,56 @@
         <g id="editableFields">
             <text id="monoText" font-size="18" font-family="Liberation Mono">
 
-                <tspan id="strScore" x="120" y="104"> 8</tspan>
-                <tspan id="strMod" x="157" y="104">-1</tspan>
+                <tspan id="strScore" x="120" y="104">12</tspan>
+                <tspan id="strMod" x="157" y="104"> 0</tspan>
 
-                <tspan id="agiScore" x="120" y="132"> 9</tspan>
-                <tspan id="agiMod" x="157" y="132"> 0</tspan>
+                <tspan id="agiScore" x="120" y="132">14</tspan>
+                <tspan id="agiMod" x="157" y="132">+1</tspan>
 
-                <tspan id="hitPoints" x="247" y="131">3</tspan>
-                <tspan id="armorClass" x="344" y="131">10</tspan>
-                <tspan id="spdScore" x="450" y="132">30'</tspan>
+                <tspan id="hitPoints" x="247" y="131">6</tspan>
+                <tspan id="armorClass" x="344" y="131">11</tspan>
+                <tspan id="spdScore" x="450" y="132">20'</tspan>
 
-                <tspan id="staScore" x="120" y="160">10</tspan>
-                <tspan id="staMod" x="157" y="160"> 0</tspan>
+                <tspan id="staScore" x="120" y="160">17</tspan>
+                <tspan id="staMod" x="157" y="160">+2</tspan>
 
-                <tspan id="initMod" x="288" y="160"> 0</tspan>
+                <tspan id="initMod" x="288" y="160">+1</tspan>
 
-                <tspan id="intScore" x="120" y="188">13</tspan>
-                <tspan id="intMod" x="157" y="188">+1</tspan>
+                <tspan id="intScore" x="120" y="188">12</tspan>
+                <tspan id="intMod" x="157" y="188"> 0</tspan>
 
-                <tspan id="fortMod" x="290" y="188"> 0</tspan>
-                <tspan id="reflexMod" x="404" y="188"> 0</tspan>
-                <tspan id="willMod" x="487" y="188">+1</tspan>
+                <tspan id="fortMod" x="290" y="188">+2</tspan>
+                <tspan id="reflexMod" x="404" y="188">+1</tspan>
+                <tspan id="willMod" x="487" y="188">-2</tspan>
 
-                <tspan id="perScore" x="120" y="215">14</tspan>
-                <tspan id="perMod" x="157" y="215">+1</tspan>
+                <tspan id="perScore" x="120" y="215"> 5</tspan>
+                <tspan id="perMod" x="157" y="215">-2</tspan>
 
-                <tspan id="lucScore" x="120" y="243">15</tspan>
+                <tspan id="lucScore" x="120" y="243">14</tspan>
                 <tspan id="lucMod" x="157" y="243">+1</tspan>
 
             </text>
 
             <text id="sansText" font-size="12" font-family="Liberation Sans">
 
-                <tspan id="occupation" x="313" y="101">Herder</tspan>
+                <tspan id="occupation" x="313" y="101">Halfling dyer</tspan>
 
-                <tspan id="money" x="398" y="157">CP:29</tspan>
+                <tspan id="money" x="398" y="157">CP:24</tspan>
 
                 <tspan id="weapon1" x="359" y="211">Staff 1d4</tspan>
                 <tspan id="weapon2" x="359" y="225">0/0/0</tspan>
 
-                <tspan id="luckySign1" x="203" y="251">Birdsong:</tspan>
-                <tspan id="luckySign2" x="203" y="265">Number of languages</tspan>
+                <tspan id="luckySign1" x="203" y="251">Harsh winter:</tspan>
+                <tspan id="luckySign2" x="203" y="265">All attack rolls</tspan>
 
                 <tspan id="languages1" x="119" y="292">Common</tspan>
-                <tspan id="languages2" x="119" y="306">Halfling, Gnome</tspan>
+                <tspan id="languages2" x="119" y="306">Halfling</tspan>
 
                 <tspan id="equipment1" x="122" y="333">Staff 1d4 0/0/0</tspan>
-                <tspan id="equipment2" x="122" y="347">Sheep, Iron spike</tspan>
+                <tspan id="equipment2" x="122" y="347">Fabric, 3 yards, Flint &amp; steel</tspan>
 
-                <tspan id="traits1" x="134" y="373"></tspan>
-                <tspan id="traits2" x="134" y="387"></tspan>
+                <tspan id="traits1" x="134" y="373">Infravision</tspan>
+                <tspan id="traits2" x="134" y="387">Small size</tspan>
 
             </text>
         </g>
@@ -562,56 +562,56 @@
         <g id="editableFields">
             <text id="monoText" font-size="18" font-family="Liberation Mono">
 
-                <tspan id="strScore" x="120" y="104">14</tspan>
-                <tspan id="strMod" x="157" y="104">+1</tspan>
+                <tspan id="strScore" x="120" y="104">17</tspan>
+                <tspan id="strMod" x="157" y="104">+2</tspan>
 
-                <tspan id="agiScore" x="120" y="132">13</tspan>
-                <tspan id="agiMod" x="157" y="132">+1</tspan>
+                <tspan id="agiScore" x="120" y="132">11</tspan>
+                <tspan id="agiMod" x="157" y="132"> 0</tspan>
 
                 <tspan id="hitPoints" x="247" y="131">2</tspan>
-                <tspan id="armorClass" x="344" y="131">11</tspan>
+                <tspan id="armorClass" x="344" y="131">10</tspan>
                 <tspan id="spdScore" x="450" y="132">30'</tspan>
 
-                <tspan id="staScore" x="120" y="160">12</tspan>
-                <tspan id="staMod" x="157" y="160"> 0</tspan>
+                <tspan id="staScore" x="120" y="160">13</tspan>
+                <tspan id="staMod" x="157" y="160">+1</tspan>
 
-                <tspan id="initMod" x="288" y="160">+1</tspan>
+                <tspan id="initMod" x="288" y="160"> 0</tspan>
 
                 <tspan id="intScore" x="120" y="188"> 8</tspan>
                 <tspan id="intMod" x="157" y="188">-1</tspan>
 
-                <tspan id="fortMod" x="290" y="188"> 0</tspan>
-                <tspan id="reflexMod" x="404" y="188">+1</tspan>
+                <tspan id="fortMod" x="290" y="188">+1</tspan>
+                <tspan id="reflexMod" x="404" y="188"> 0</tspan>
                 <tspan id="willMod" x="487" y="188"> 0</tspan>
 
-                <tspan id="perScore" x="120" y="215">12</tspan>
+                <tspan id="perScore" x="120" y="215">11</tspan>
                 <tspan id="perMod" x="157" y="215"> 0</tspan>
 
-                <tspan id="lucScore" x="120" y="243">11</tspan>
-                <tspan id="lucMod" x="157" y="243"> 0</tspan>
+                <tspan id="lucScore" x="120" y="243"> 5</tspan>
+                <tspan id="lucMod" x="157" y="243">-2</tspan>
 
             </text>
 
             <text id="sansText" font-size="12" font-family="Liberation Sans">
 
-                <tspan id="occupation" x="313" y="101">Armorer</tspan>
+                <tspan id="occupation" x="313" y="101">Elven sage</tspan>
 
-                <tspan id="money" x="398" y="157">CP:39</tspan>
+                <tspan id="money" x="398" y="157">CP:27</tspan>
 
-                <tspan id="weapon1" x="359" y="211">Hammer (as club) 1d4</tspan>
+                <tspan id="weapon1" x="359" y="211">Dagger 1d4</tspan>
                 <tspan id="weapon2" x="359" y="225">0/0/0</tspan>
 
-                <tspan id="luckySign1" x="203" y="251">The broken star:</tspan>
-                <tspan id="luckySign2" x="203" y="265">Fumbles</tspan>
+                <tspan id="luckySign1" x="203" y="251">Four leafed clover:</tspan>
+                <tspan id="luckySign2" x="203" y="265">Find secret doors</tspan>
 
-                <tspan id="languages1" x="119" y="292"></tspan>
-                <tspan id="languages2" x="119" y="306">Common</tspan>
+                <tspan id="languages1" x="119" y="292">Common</tspan>
+                <tspan id="languages2" x="119" y="306">Elf</tspan>
 
-                <tspan id="equipment1" x="122" y="333">Hammer (as club) 1d4 0/0/0</tspan>
-                <tspan id="equipment2" x="122" y="347">Iron helmet, Grappling hook</tspan>
+                <tspan id="equipment1" x="122" y="333">Dagger 1d4 0/0/0</tspan>
+                <tspan id="equipment2" x="122" y="347">Parchment and quill pen, Crowbar</tspan>
 
-                <tspan id="traits1" x="134" y="373"></tspan>
-                <tspan id="traits2" x="134" y="387"></tspan>
+                <tspan id="traits1" x="134" y="373">Infravision, Immune to magic sleep/paralysis</tspan>
+                <tspan id="traits2" x="134" y="387">Heightened senses, Iron vulnerability</tspan>
 
             </text>
         </g>

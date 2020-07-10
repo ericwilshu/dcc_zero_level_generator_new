@@ -183,3 +183,18 @@ def getDataFiles(path):
     dataDictionary["Languages"] = getLanguages(path + "AppendixL.csv")
 
     return dataDictionary
+
+
+if __name__ == "__main__":
+    """This is here to create a pickled file of the data dictionary needed by other modules in this project.
+    Once it has been run successfully, it can be ignored."""
+    import pickle
+    import dcc_root_path
+
+    ROOT_PATH = dcc_root_path.get_root_path()
+    writable = open("dcc_dict", "wb")
+    data_dictionary = getDataFiles('{}data_files/'.format(ROOT_PATH))
+    pickleDict = pickle.dumps(data_dictionary)
+    writable.write(pickleDict)
+    print("saved pickle")
+    writable.close()
